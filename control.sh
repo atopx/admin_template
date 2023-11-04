@@ -1,6 +1,6 @@
 #!/bin/bash
 
-SERVICE_NAME="cloudos"
+SERVICE_NAME="goadmin_tpl"
 VERSION="v0.1.0"
 
 function build() {
