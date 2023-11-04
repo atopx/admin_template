@@ -9,7 +9,7 @@ function build() {
 
 function swagger() {
 	rm -f docs/api/swagger.yaml
-	cd scaler && swag init --output ../docs/api --outputTypes yaml --parseInternal
+	cd app && swag init --output ../docs/api --outputTypes yaml --parseInternal
 	cd ..
 }
 
