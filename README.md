@@ -1,9 +1,7 @@
-# scaler
+# goadmin_tpl
 
-资产发现
-IP探活
-端口扫描
-服务识别
+> 后台管理模板
 
-任务管理
-用户管理
+后端：Go1.20 / gin / gorm
+前端：vue3 / element-plus
+
