@@ -1,0 +1,19 @@
+server:
+  mode: debug
+  host: 127.0.0.1
+  port: 6991
+  loglevel: debug
+
+mysql:
+  user: root
+  pass: mengfei
+  host: 49.232.28.141
+  port: 3306
+  name: scaler
+  debug: true
+
+redis:
+  host: 49.232.28.141
+  port: 6379
+  db: 1
+  password: mengfei123
